@@ -1,0 +1,1 @@
+discipline.sort_values(['Red Cards', 'Yellow Cards'], ascending=False)
