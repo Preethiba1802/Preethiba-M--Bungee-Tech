@@ -1,4 +1,5 @@
 grocery.groupby('product_description')['price'].mean()
+
 # output
 product_description
 apple           2.077778
